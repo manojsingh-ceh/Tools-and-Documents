@@ -1,0 +1,120 @@
+awt.toolkit                      sun.awt.windows.WToolkit
+file.encoding                    Cp1252
+file.encoding.pkg                sun.io
+file.separator                   \
+java.awt.graphicsenv             sun.awt.Win32GraphicsEnvironment
+java.awt.printerjob              sun.awt.windows.WPrinterJob
+java.class.path                  burpsuite_free_v1.6.29.jar
+java.class.version               52.0
+java.endorsed.dirs               C:\Program Files\Java\jre1.8.0_92\lib\endorsed
+java.ext.dirs                    C:\Program Files\Java\jre1.8.0_92\lib\ext;C:\windows\Sun\Java\lib\ext
+java.home                        C:\Program Files\Java\jre1.8.0_92
+java.io.tmpdir                   C:\Users\IBM_AD~1\AppData\Local\Temp\
+java.library.path                C:\ProgramData\Oracle\Java\javapath;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\ThinkPad\Bluetooth Software\;C:\Program Files\ThinkPad\Bluetooth Software\syswow64;C:\Program Files (x86)\IBM\Personal Communications\;C:\Program Files (x86)\IBM\Trace Facility\;C:\Program Files (x86)\IBM\Mobility Client\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Python27;C:\Python27\Lib\site-packages;C:\Program Files\nodejs\;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Users\IBM_ADMIN\Downloads\apache-maven-3.5.2-bin\apache-maven-3.5.2\bin;C:\Users\IBM_ADMIN\Downloads\apache-maven-3.5.2-bin\apache-maven-3.5.2\bin;C:\Program Files\dotnet\;C:\Program Files\Java\jdk1.8.0_92\bin;C:\Program Files\Genymobile\Genymotion\tools;C:\Program Files\IBM\Bluemix\bin;C:\Program Files\IBM\Bluemix\bin\cfcli;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;c:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\PostgreSQL\pg10\bin;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Qt\4.0.1\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Python27;C:\Python27\Lib\site-packages;C:\Python27\Scripts;C:\Users\IBM_ADMIN\AppData\Roaming\npm;C:\Program Files (x86)\Nmap;C:\Users\IBM_ADMIN\Downloads\apache-maven-3.5.2-bin\apache-maven-3.5.2\bin;C:\Users\IBM_ADMIN\Downloads\apache-maven-3.5.2-bin\apache-maven-3.5.2\bin;C:\Program Files\Genymobile\Genymotion\tools;C:\Program Files\IBM\Bluemix\bin\cfcli;C:\Program Files\Java\jdk1.8.0_92\bin;C:\Users\IBM_ADMIN\Downloads\apache-maven-3.3.9-bin.zip\apache-maven-3.3.9\bin;.
+java.runtime.name                Java(TM) SE Runtime Environment
+java.runtime.version             1.8.0_92-b14
+java.specification.name          Java Platform API Specification
+java.specification.vendor        Oracle Corporation
+java.specification.version       1.8
+java.vendor                      Oracle Corporation
+java.vendor.url                  http://java.oracle.com/
+java.vendor.url.bug              http://bugreport.sun.com/bugreport/
+java.version                     1.8.0_92
+java.vm.info                     mixed mode
+java.vm.name                     Java HotSpot(TM) 64-Bit Server VM
+java.vm.specification.name       Java Virtual Machine Specification
+java.vm.specification.vendor     Oracle Corporation
+java.vm.specification.version    1.8
+java.vm.vendor                   Oracle Corporation
+java.vm.version                  25.92-b14
+jdk.tls.allowUnsafeServerCertChange true
+networkaddress.cache.negative.ttl 59
+networkaddress.cache.ttl         299
+os.arch                          amd64
+os.name                          Windows 7
+os.version                       6.1
+path.separator                   ;
+python.cachedir.skip             true
+python.console.encoding          cp437
+sun.arch.data.model              64
+sun.awt.enableExtraMouseButtons  true
+sun.boot.class.path              C:\Program Files\Java\jre1.8.0_92\lib\resources.jar;C:\Program Files\Java\jre1.8.0_92\lib\rt.jar;C:\Program Files\Java\jre1.8.0_92\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_92\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_92\lib\jce.jar;C:\Program Files\Java\jre1.8.0_92\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_92\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_92\classes
+sun.boot.library.path            C:\Program Files\Java\jre1.8.0_92\bin
+sun.cpu.endian                   little
+sun.cpu.isalist                  amd64
+sun.desktop                      windows
+sun.io.unicode.encoding          UnicodeLittle
+sun.java.command                 burpsuite_free_v1.6.29.jar
+sun.java.launcher                SUN_STANDARD
+sun.jnu.encoding                 Cp1252
+sun.management.compiler          HotSpot 64-Bit Tiered Compilers
+sun.nio.ch.bugLevel              
+sun.os.patch.level               Service Pack 1
+sun.security.ssl.allowUnsafeSslRenegotiation false
+sun.stderr.encoding              cp437
+sun.stdout.encoding              cp437
+user.country                     US
+user.dir                         C:\Burpsuite
+user.home                        C:\Users\IBM_ADMIN
+user.language                    en
+user.name                        IBM
+user.script                      
+user.timezone                    Asia/Calcutta
+user.variant                     
+
+Debug ID                         4cf5252bd6a43e3c1c88:e615
+
+=::                              ::\
+=C:                              C:\Burpsuite
+ALLUSERSPROFILE                  C:\ProgramData
+APPDATA                          C:\Users\IBM_ADMIN\AppData\Roaming
+APPSCAN_INSTALL_DIR              C:\Users\IBM_ADMIN\Downloads\SAClientUtil_6.0.1036_win\SAClientUtil.6.0.1036
+CATALINA_HOME                    C:\Program Files (x86)\IBM\Rational ASE\JazzTeamServer\server\tomcat
+COMMPath                         C:\Program Files\Lenovo\Communications Utility
+COMPUTERNAME                     IBM795-R9WAK3Z
+ComSpec                          C:\windows\system32\cmd.exe
+CommonProgramFiles               C:\Program Files\Common Files
+CommonProgramFiles(x86)          C:\Program Files (x86)\Common Files
+CommonProgramW6432               C:\Program Files\Common Files
+FP_NO_HOST_CHECK                 NO
+HOMEDRIVE                        C:
+HOMEPATH                         \Users\IBM_ADMIN
+JAVA_HOME                        C:\Program Files\Java\jdk1.8.0_92\
+LOCALAPPDATA                     C:\Users\IBM_ADMIN\AppData\Local
+LOGONSERVER                      \\IBM795-R9WAK3Z
+M2_HOME                          C:\Users\IBM_ADMIN\Downloads\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin
+MAVEN_HOME                       C:\Users\IBM_ADMIN\Downloads\apache-maven-3.5.2-bin\apache-maven-3.5.2\bin
+NUMBER_OF_PROCESSORS             4
+OPENSSL_CONF                     C:\OpenSSL-Win64\bin\openssl.cfg
+OS                               Windows_NT
+PATHEXT                          .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PCOMM_Root                       C:\Program Files (x86)\IBM\Personal Communications\
+PROCESSOR_ARCHITECTURE           AMD64
+PROCESSOR_IDENTIFIER             Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+PROCESSOR_LEVEL                  6
+PROCESSOR_REVISION               2a07
+PROMPT                           $P$G
+PSModulePath                     C:\windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC                           C:\Users\Public
+Path                             C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\ThinkPad\Bluetooth Software\;C:\Program Files\ThinkPad\Bluetooth Software\syswow64;C:\Program Files (x86)\IBM\Personal Communications\;C:\Program Files (x86)\IBM\Trace Facility\;C:\Program Files (x86)\IBM\Mobility Client\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Python27;C:\Python27\Lib\site-packages;C:\Program Files\nodejs\;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Users\IBM_ADMIN\Downloads\apache-maven-3.5.2-bin\apache-maven-3.5.2\bin;C:\Users\IBM_ADMIN\Downloads\apache-maven-3.5.2-bin\apache-maven-3.5.2\bin;C:\Program Files\dotnet\;C:\Program Files\Java\jdk1.8.0_92\bin;C:\Program Files\Genymobile\Genymotion\tools;C:\Program Files\IBM\Bluemix\bin;C:\Program Files\IBM\Bluemix\bin\cfcli;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;c:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\PostgreSQL\pg10\bin;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Qt\4.0.1\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Python27;C:\Python27\Lib\site-packages;C:\Python27\Scripts;C:\Users\IBM_ADMIN\AppData\Roaming\npm;C:\Program Files (x86)\Nmap;C:\Users\IBM_ADMIN\Downloads\apache-maven-3.5.2-bin\apache-maven-3.5.2\bin;C:\Users\IBM_ADMIN\Downloads\apache-maven-3.5.2-bin\apache-maven-3.5.2\bin;C:\Program Files\Genymobile\Genymotion\tools;C:\Program Files\IBM\Bluemix\bin\cfcli;C:\Program Files\Java\jdk1.8.0_92\bin;C:\Users\IBM_ADMIN\Downloads\apache-maven-3.3.9-bin.zip\apache-maven-3.3.9\bin
+ProgramData                      C:\ProgramData
+ProgramFiles                     C:\Program Files
+ProgramFiles(x86)                C:\Program Files (x86)
+ProgramW6432                     C:\Program Files
+QMAKESPEC                        win32-g++
+QTDIR                            C:\Qt\4.0.1
+SESSIONNAME                      Console
+SystemDrive                      C:
+SystemRoot                       C:\windows
+TEMP                             C:\Users\IBM_AD~1\AppData\Local\Temp
+TMP                              C:\Users\IBM_AD~1\AppData\Local\Temp
+TSMPATH                          C:\Program Files\ThinkPad\UltraNav Utility
+USERDOMAIN                       IBM795-R9WAK3Z
+USERNAME                         IBM
+USERPROFILE                      C:\Users\IBM_ADMIN
+VBOX_MSI_INSTALL_PATH            C:\Program Files\Oracle\VirtualBox\
+windir                           C:\windows
+
+Total memory                     646,447,104
+Max memory                       954,728,448
+Free memory                      138,060,472
