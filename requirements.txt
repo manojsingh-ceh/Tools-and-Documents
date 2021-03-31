@@ -36,7 +36,7 @@ ipython-genutils==0.2.0
 itsdangerous==0.24
 Jinja2==2.10
 lockfile==0.12.2
-lxml==4.2.3
+lxml==4.6.3
 MarkupSafe==1.0
 mr.bob==0.1.2
 netaddr==0.7.19
