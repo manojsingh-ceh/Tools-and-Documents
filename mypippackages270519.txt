@@ -88,7 +88,7 @@ texttable==1.4.0
 tornado==5.0
 traitlets==4.3.2
 Twisted==19.2.0
-urllib3==1.22
+urllib3==1.26.5
 wapiti==0.1
 wcwidth==0.1.7
 Werkzeug==0.15.4
